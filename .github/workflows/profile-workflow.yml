@@ -1,0 +1,18 @@
+name: profile workflow
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  LeetCode:
+    name: LeetCode
+    uses: lowlighter/metrics@latest
+    with:
+      filename: metrics.plugin.leetcode.svg
+      token: NOT_NEEDED
+      base: ""
+      plugin_leetcode_user: demidov-ad
+      plugin_leetcode: yes
+      plugin_leetcode_sections: solved, skills, recent
