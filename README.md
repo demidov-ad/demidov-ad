@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=demidov-ad&theme=dark&background=000000)](https://git.io/streak-stats)
+[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/demidov-ad/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
 
 
 <!--
