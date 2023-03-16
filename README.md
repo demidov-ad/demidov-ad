@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=demidov-ad&theme=dark&background=000000)](https://git.io/streak-stats)
-[<img align="left" width="390" alt="🦑" src="https://gist.githubusercontent.com/demidov-ad/3c6eaedf50273adfb7a510822672f570/raw/general.svg">](#)
+![Metrics](/github-metrics.svg)
 
 
-<!--
-**demidov-ad/demidov-ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
