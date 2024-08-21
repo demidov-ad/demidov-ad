@@ -1,4 +1,4 @@
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+[![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/)
 
 ## About Me
 I am Demidov Aleksey, a **Bach End Developer** (specializing in **.Net**).
