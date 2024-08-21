@@ -1,7 +1,7 @@
 [![.NET](https://img.shields.io/badge/--512BD4?logo=.net&logoColor=ffffff)](https://dotnet.microsoft.com/)
 
 ## About Me
-I am Demidov Aleksey, a **Bach End Developer** (specializing in **.Net**).
+I am Demidov Aleksey, a **Backend Developer** (specializing in **.Net**).
 
 ## Education and Scientific work  
 🎓 Scientific work:  
